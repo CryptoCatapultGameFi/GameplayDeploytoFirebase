@@ -1,5 +1,10 @@
 # Unity ^2020.1.0 Web3GL Template
 
+## How to deploy
+```firebase deploy```
+
+## Change the config memory if memory is out of bounds!!!!
+
 ## Methods in Browser
 
 ![](https://user-images.githubusercontent.com/19412160/149653806-b2c4ca54-1986-4481-bd61-721dbd8a7967.png)
